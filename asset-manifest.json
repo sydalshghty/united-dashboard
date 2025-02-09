@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/united-dashboard/static/css/main.34c891ad.css",
-    "main.js": "/united-dashboard/static/js/main.b84b2952.js",
+    "main.js": "/united-dashboard/static/js/main.1eb2339a.js",
     "static/media/61GsnUB4HuL 2 (2).png": "/united-dashboard/static/media/61GsnUB4HuL 2 (2).b9abd231c19340e4907f.png",
     "static/media/61GsnUB4HuL 2 (4).png": "/united-dashboard/static/media/61GsnUB4HuL 2 (4).957fb3d85bb5c48a652a.png",
     "static/media/Group 350.svg": "/united-dashboard/static/media/Group 350.7f00c1ae0bdab23702b4c8fc33c5335c.svg",
@@ -29,10 +29,10 @@
     "static/media/Vector (3).svg": "/united-dashboard/static/media/Vector (3).cb0a0dbbc0f2725c5d69a2dd8e4b2f00.svg",
     "static/media/factory.CSS": "/united-dashboard/static/media/factory.4564721d3d9dd550dea0.CSS",
     "main.34c891ad.css.map": "/united-dashboard/static/css/main.34c891ad.css.map",
-    "main.b84b2952.js.map": "/united-dashboard/static/js/main.b84b2952.js.map"
+    "main.1eb2339a.js.map": "/united-dashboard/static/js/main.1eb2339a.js.map"
   },
   "entrypoints": [
     "static/css/main.34c891ad.css",
-    "static/js/main.b84b2952.js"
+    "static/js/main.1eb2339a.js"
   ]
 }
